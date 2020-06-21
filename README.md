@@ -1,6 +1,6 @@
 # Modeling-Biological-Immunity
 ## Installation
- - Install OpenPV from github.  I used the devel branch
+ - Install OpenPV from github. https://github.com/PetaVision/OpenPV. I used the devel branch
  - Put the following folder in the tutorials folder (along with LCACifar)
 ## Update Paths
  - update the scratchPath in input/Retina_CIFAR10.lua
@@ -12,3 +12,4 @@
  - copy the on and off pvp files, as well as the original image to the image directory
  - In matlab, run the showspikes code.  This will visualize the spikes, as well as create a PNG movie sequence
  - See the spikes summed together using the sumofspikes.m code.
+ - mlab/util directory is provided if the original OpenPV code causes problems
