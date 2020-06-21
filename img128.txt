@@ -1,0 +1,5 @@
+/home/ek826/Documents/OpenPV/tutorials/Retina/imagenet128/ILSVRC2012_val_00000001.JPEG
+/home/ek826/Documents/OpenPV/tutorials/Retina/imagenet128/ILSVRC2012_val_00000002.JPEG
+/home/ek826/Documents/OpenPV/tutorials/Retina/imagenet128/ILSVRC2012_val_00000003.JPEG
+/home/ek826/Documents/OpenPV/tutorials/Retina/imagenet128/ILSVRC2012_val_00000004.JPEG
+/home/ek826/Documents/OpenPV/tutorials/Retina/imagenet128/ILSVRC2012_val_00000005.JPEG
